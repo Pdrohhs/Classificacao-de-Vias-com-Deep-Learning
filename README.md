@@ -17,6 +17,12 @@ O dataset apresenta dois desafios centrais:
 - **Desbalanceamento severo**: Asphalt (655 imagens), Off-road (151), Belgian Blocks (94)
 - **Qualidade visual adversa**: imagens noturnas, sob chuva e com baixa iluminação
 
+| Asphalt | Belgian Blocks | Off-road |
+|---|---|---|
+| ![asphalt](Images/asphalt_chuva.jpg) | ![belgian](Images/belgian_blocks_chuva.jpg) | ![offroad](Images/off_road_noite.jpg) |
+
+Possivelmente você iria errar ao chutar a classe das 3 imagens acima se não soubesse da resposta.
+
 Um modelo ingênuo poderia atingir acurácia razoável simplesmente apostando sempre em Asphalt. Por isso, a métrica principal adotada foi o **Macro F1-Score**, que trata todas as classes com igual peso.
 
 ---

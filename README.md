@@ -52,7 +52,7 @@ Python · PyTorch · Torchvision · Scikit-learn · Matplotlib · Seaborn · Goo
 
 ## 🚀 Como executar
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](SEU_LINK_AQUI)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lOzjMsaNQF1_5m_0ng3z1hZnS7lB0Ekx?usp=sharing)
 
 ---
 
@@ -64,4 +64,4 @@ Python · PyTorch · Torchvision · Scikit-learn · Matplotlib · Seaborn · Goo
 
 **Limitação fundamental**: Com apenas 94 imagens de treino para Belgian Blocks, o limite não é algorítmico, é representativo. Mais dados dessa classe teriam mais impacto do que qualquer mudança de arquitetura.
 
-**Próximos passos**: Enriquecimento do dataset de Belgian Blocks e exploração de técnicas de few-shot learning.
+**Próximos passos**: Enriquecimento e melhorias do dataset.

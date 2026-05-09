@@ -62,7 +62,7 @@ Python · PyTorch · Torchvision · Scikit-learn · Matplotlib · Seaborn · Goo
 
 ---
 
-## 🚀 Como executar
+## 🚀 Código com resolução do desafio
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lOzjMsaNQF1_5m_0ng3z1hZnS7lB0Ekx?usp=sharing)
 

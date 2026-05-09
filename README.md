@@ -1,6 +1,12 @@
 # 🛣️ Classificação de Superfícies de Vias
 
-Solução para um desafio de visão computacional de classificação de imagens em 3 classes: **Asphalt**, **Belgian Blocks** e **Off-road**.
+Este projeto foi desenvolvido como resolução de um desafio para seleção de Iniciação Científica (IC). O objetivo é classificar imagens capturadas por dashcams em três tipos de vias: **Asphalt**, **Belgian Blocks** e **Off-road**.
+
+| Asphalt | Belgian Blocks | Off-road |
+|---|---|---|
+| ![asphalt](images/asphalt.jpg) | ![belgian](images/belgian_blocks.jpg) | ![offroad](images/offroad.jpg) |
+
+O principal desafio técnico do projeto foi lidar com um dataset altamente desbalanceado (apenas 94 imagens de treino para blocos belgas) e escasso. O projeto demonstra uma progressão de solução, partindo de um baseline arquitetural até chegar a uma abordagem focada nos dados (Data-Centric).
 
 ---
 

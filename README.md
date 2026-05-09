@@ -4,7 +4,7 @@ Este projeto foi desenvolvido como resolução de um desafio para seleção de I
 
 | Asphalt | Belgian Blocks | Off-road |
 |---|---|---|
-| ![asphalt](images/asphalt.jpg) | ![belgian](images/belgian_blocks.jpg) | ![offroad](images/offroad.jpg) |
+| ![asphalt](Images/asphalt.jpg) | ![belgian](Images/belgian_blocks.jpg) | ![offroad](Images/off_road.jpg) |
 
 O principal desafio técnico do projeto foi lidar com um dataset altamente desbalanceado (apenas 94 imagens de treino para blocos belgas) e escasso. O projeto demonstra uma progressão de solução, partindo de um baseline arquitetural até chegar a uma abordagem focada nos dados (Data-Centric).
 
